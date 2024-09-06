@@ -1,0 +1,54 @@
+¡Excelente! Aquí tienes la lista de los temas que veremos en este curso de Programación Orientada a Objetos (POO) en C++:
+1.	Introducción a la Programación Orientada a Objetos (POO)
+o	Conceptos básicos de POO
+o	Diferencias entre programación estructurada y POO
+2.	Clases y Objetos
+o	Definición de clases
+o	Creación de objetos
+o	Acceso a miembros de la clase
+3.	Constructores y Destructores
+o	Constructores: definición y uso
+o	Sobrecarga de constructores
+o	Destructores: definición y uso
+4.	Encapsulamiento
+o	Modificadores de acceso: public, private, y protected
+o	Métodos get y set
+5.	Herencia
+o	Concepto de herencia
+o	Clases base y derivadas
+o	Herencia simple y múltiple
+o	Uso del modificador protected en herencia
+6.	Polimorfismo
+o	Polimorfismo en tiempo de compilación (sobrecarga de funciones y operadores)
+o	Polimorfismo en tiempo de ejecución (funciones virtuales)
+o	Punteros a clases base
+7.	Sobrecarga de Operadores
+o	Sobrecarga de operadores básicos (+, -, *, /)
+o	Sobrecarga de operadores de asignación y comparación
+8.	Funciones Amigas y Clases Amigas
+o	Definición y uso de funciones amigas
+o	Clases amigas
+9.	Plantillas (Templates)
+o	Funciones plantilla
+o	Clases plantilla
+o	Uso de plantillas en POO
+10.	Manejo de Excepciones
+o	Concepto de excepciones
+o	Uso de try, catch, y throw
+o	Excepciones personalizadas
+11.	Programación Genérica
+o	Introducción a la STL (Standard Template Library)
+o	Uso de contenedores como vector, list, y map
+o	Iteradores y algoritmos
+12.	Manejo de Memoria Dinámica
+o	Uso de new y delete
+o	Clases con recursos dinámicos
+o	Gestión de memoria y problemas comunes
+13.	Buenas Prácticas en POO
+o	Principios SOLID
+o	DRY (Don't Repeat Yourself)
+o	KISS (Keep It Simple, Stupid)
+o	YAGNI (You Ain’t Gonna Need It)
+14.	Proyectos Prácticos
+o	Proyecto final que integre todos los conceptos
+¿Te parece bien esta estructura para el curso? Si tienes alguna sugerencia o algo más que te gustaría agregar, házmelo saber.
